@@ -1,2 +1,6 @@
-# Ntodo
-Todo list of N series project
+# Ntodos
+Assist on organizing Ntodos effectively.
+
+## Feature
+- [ ] Display Ntodos.
+- [ ] Create Ntodos.

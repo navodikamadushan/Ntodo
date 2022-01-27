@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ntodo-35bb3": {
+      "hosting": {
+        "Ntodo": [
+          "ntodo-35bb3"
+        ]
+      }
+    }
+  }
+}
